@@ -1,0 +1,2082 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<IEA_EV_Data_Sub>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2010</year>
+    <unit>Vehicles</unit>
+    <value>13</value>
+    <percentage>1300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2010</year>
+    <unit>Vehicles</unit>
+    <value>720</value>
+    <percentage>72000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2010</year>
+    <unit>percent</unit>
+    <value>14.999.999.664.724</value>
+    <percentage>1499999966472400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2010</year>
+    <unit>percent</unit>
+    <value>5.799.999.926.239</value>
+    <percentage>579999992623900.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2011</year>
+    <unit>percent</unit>
+    <value>109.999.999.403.954</value>
+    <percentage>10999999940395400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2011</year>
+    <unit>percent</unit>
+    <value>18.999.999.389.052</value>
+    <percentage>1899999938905200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2011</year>
+    <unit>Vehicles</unit>
+    <value>910</value>
+    <percentage>91000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2011</year>
+    <unit>Vehicles</unit>
+    <value>170</value>
+    <percentage>17000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2011</year>
+    <unit>Vehicles</unit>
+    <value>2</value>
+    <percentage>200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2011</year>
+    <unit>charging points</unit>
+    <value>6</value>
+    <percentage>600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2011</year>
+    <unit>charging points</unit>
+    <value>1100</value>
+    <percentage>110000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2012</year>
+    <unit>charging points</unit>
+    <value>7</value>
+    <percentage>700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2012</year>
+    <unit>charging points</unit>
+    <value>1100</value>
+    <percentage>110000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2012</year>
+    <unit>Vehicles</unit>
+    <value>30</value>
+    <percentage>3000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2012</year>
+    <unit>Vehicles</unit>
+    <value>54</value>
+    <percentage>5400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2012</year>
+    <unit>Vehicles</unit>
+    <value>960</value>
+    <percentage>96000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2012</year>
+    <unit>percent</unit>
+    <value>23.000.000.044.704</value>
+    <percentage>2300000004470400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2012</year>
+    <unit>percent</unit>
+    <value>87.999.999.523.163</value>
+    <percentage>8799999952316300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2013</year>
+    <unit>percent</unit>
+    <value>170.000.001.788.139</value>
+    <percentage>17000000178813900.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2013</year>
+    <unit>percent</unit>
+    <value>27.000.000.700.355</value>
+    <percentage>2700000070035500.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2013</year>
+    <unit>percent</unit>
+    <value>150.000.005.960.464</value>
+    <percentage>15000000596046400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2013</year>
+    <unit>Vehicles</unit>
+    <value>1100</value>
+    <percentage>110000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2013</year>
+    <unit>Vehicles</unit>
+    <value>150</value>
+    <percentage>15000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2013</year>
+    <unit>Vehicles</unit>
+    <value>35</value>
+    <percentage>3500.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2013</year>
+    <unit>Vehicles</unit>
+    <value>37</value>
+    <percentage>3700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2013</year>
+    <unit>Vehicles</unit>
+    <value>27</value>
+    <percentage>2700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2013</year>
+    <unit>charging points</unit>
+    <value>17</value>
+    <percentage>1700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2013</year>
+    <unit>charging points</unit>
+    <value>1200</value>
+    <percentage>120000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2014</year>
+    <unit>charging points</unit>
+    <value>17</value>
+    <percentage>1700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2014</year>
+    <unit>charging points</unit>
+    <value>1200</value>
+    <percentage>120000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2014</year>
+    <unit>Vehicles</unit>
+    <value>26</value>
+    <percentage>2600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2014</year>
+    <unit>Vehicles</unit>
+    <value>2</value>
+    <percentage>200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2014</year>
+    <unit>Vehicles</unit>
+    <value>46</value>
+    <percentage>4600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2014</year>
+    <unit>Vehicles</unit>
+    <value>98</value>
+    <percentage>9800.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2014</year>
+    <unit>Vehicles</unit>
+    <value>190</value>
+    <percentage>19000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2014</year>
+    <unit>Vehicles</unit>
+    <value>1300</value>
+    <percentage>130000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2014</year>
+    <unit>percent</unit>
+    <value>100.000.001.490.116</value>
+    <percentage>10000000149011600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2014</year>
+    <unit>percent</unit>
+    <value>839.999.973.773.956</value>
+    <percentage>83999997377395600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2014</year>
+    <unit>percent</unit>
+    <value>28.999.999.165.535</value>
+    <percentage>2899999916553500.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2014</year>
+    <unit>percent</unit>
+    <value>200.000.002.980.232</value>
+    <percentage>20000000298023200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2015</year>
+    <unit>percent</unit>
+    <value>620.000.004.768.372</value>
+    <percentage>62000000476837200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2015</year>
+    <unit>percent</unit>
+    <value>52.999.999.374.151</value>
+    <percentage>5299999937415100.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2015</year>
+    <unit>Vehicles</unit>
+    <value>2000</value>
+    <percentage>200000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2015</year>
+    <unit>Vehicles</unit>
+    <value>670</value>
+    <percentage>67000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2015</year>
+    <unit>Vehicles</unit>
+    <value>430</value>
+    <percentage>43000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2015</year>
+    <unit>Vehicles</unit>
+    <value>530</value>
+    <percentage>53000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2015</year>
+    <unit>charging points</unit>
+    <value>22</value>
+    <percentage>2200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2015</year>
+    <unit>charging points</unit>
+    <value>1200</value>
+    <percentage>120000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2016</year>
+    <unit>charging points</unit>
+    <value>41</value>
+    <percentage>4100.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2016</year>
+    <unit>charging points</unit>
+    <value>1300</value>
+    <percentage>130000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2016</year>
+    <unit>Vehicles</unit>
+    <value>1600</value>
+    <percentage>160000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2016</year>
+    <unit>Vehicles</unit>
+    <value>1000</value>
+    <percentage>100000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2016</year>
+    <unit>Vehicles</unit>
+    <value>800</value>
+    <percentage>80000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2016</year>
+    <unit>Vehicles</unit>
+    <value>2800</value>
+    <percentage>280000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2016</year>
+    <unit>percent</unit>
+    <value>93.000.002.205.372</value>
+    <percentage>9300000220537200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2016</year>
+    <unit>percent</unit>
+    <value>870.000.004.768.372</value>
+    <percentage>87000000476837200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2017</year>
+    <unit>percent</unit>
+    <value>2</value>
+    <percentage>200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2017</year>
+    <unit>percent</unit>
+    <value>189.999.997.615.814</value>
+    <percentage>18999999761581400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2017</year>
+    <unit>percent</unit>
+    <value>519.999.980.926.514</value>
+    <percentage>51999998092651400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2017</year>
+    <unit>percent</unit>
+    <value>560.000.002.384.186</value>
+    <percentage>56000000238418600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2017</year>
+    <unit>percent</unit>
+    <value>159.999.996.423.721</value>
+    <percentage>15999999642372100.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2017</year>
+    <unit>percent</unit>
+    <value>6.899.999.920.279</value>
+    <percentage>689999992027900.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2017</year>
+    <unit>Vehicles</unit>
+    <value>4700</value>
+    <percentage>470000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2017</year>
+    <unit>Vehicles</unit>
+    <value>1900</value>
+    <percentage>190000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2017</year>
+    <unit>Vehicles</unit>
+    <value>76</value>
+    <percentage>7600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2017</year>
+    <unit>Vehicles</unit>
+    <value>2500</value>
+    <percentage>250000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2017</year>
+    <unit>Vehicles</unit>
+    <value>2</value>
+    <percentage>200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2017</year>
+    <unit>Vehicles</unit>
+    <value>200</value>
+    <percentage>20000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2017</year>
+    <unit>Vehicles</unit>
+    <value>23</value>
+    <percentage>2300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2017</year>
+    <unit>charging points</unit>
+    <value>150</value>
+    <percentage>15000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2017</year>
+    <unit>charging points</unit>
+    <value>1500</value>
+    <percentage>150000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2017</year>
+    <unit>Vehicles</unit>
+    <value>4100</value>
+    <percentage>410000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2018</year>
+    <unit>Vehicles</unit>
+    <value>8000</value>
+    <percentage>800000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2018</year>
+    <unit>charging points</unit>
+    <value>180</value>
+    <percentage>18000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2018</year>
+    <unit>charging points</unit>
+    <value>1600</value>
+    <percentage>160000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2018</year>
+    <unit>Vehicles</unit>
+    <value>33</value>
+    <percentage>3300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2018</year>
+    <unit>Vehicles</unit>
+    <value>10</value>
+    <percentage>1000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2018</year>
+    <unit>Vehicles</unit>
+    <value>260</value>
+    <percentage>26000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2018</year>
+    <unit>Vehicles</unit>
+    <value>3900</value>
+    <percentage>390000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2018</year>
+    <unit>Vehicles</unit>
+    <value>330</value>
+    <percentage>33000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2018</year>
+    <unit>Vehicles</unit>
+    <value>4300</value>
+    <percentage>430000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2018</year>
+    <unit>Vehicles</unit>
+    <value>8700</value>
+    <percentage>870000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2018</year>
+    <unit>percent</unit>
+    <value>28.999.999.165.535</value>
+    <percentage>2899999916553500.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2018</year>
+    <unit>percent</unit>
+    <value>230.000.004.172.325</value>
+    <percentage>23000000417232500.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2018</year>
+    <unit>percent</unit>
+    <value>670.000.016.689.301</value>
+    <percentage>67000001668930100.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2018</year>
+    <unit>percent</unit>
+    <value>189.999.997.615.814</value>
+    <percentage>18999999761581400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2018</year>
+    <unit>percent</unit>
+    <value>360.000.014.305.115</value>
+    <percentage>36000001430511500.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2018</year>
+    <unit>percent</unit>
+    <value>359.999.990.463.257</value>
+    <percentage>35999999046325700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2019</year>
+    <unit>percent</unit>
+    <value>559.999.990.463.257</value>
+    <percentage>55999999046325700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2019</year>
+    <unit>percent</unit>
+    <value>620.000.004.768.372</value>
+    <percentage>62000000476837200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2019</year>
+    <unit>percent</unit>
+    <value>490.000.009.536.743</value>
+    <percentage>49000000953674300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2019</year>
+    <unit>percent</unit>
+    <value>620.000.004.768.372</value>
+    <percentage>62000000476837200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2019</year>
+    <unit>percent</unit>
+    <value>409.999.996.423.721</value>
+    <percentage>40999999642372100.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2019</year>
+    <unit>percent</unit>
+    <value>48.000.000.417.233</value>
+    <percentage>4800000041723300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>16000</value>
+    <percentage>1600000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>6800</value>
+    <percentage>680000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>540</value>
+    <percentage>54000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>10</value>
+    <percentage>1000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>5800</value>
+    <percentage>580000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>230</value>
+    <percentage>23000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>10</value>
+    <percentage>1000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>17</value>
+    <percentage>1700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>50</value>
+    <percentage>5000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2019</year>
+    <unit>charging points</unit>
+    <value>360</value>
+    <percentage>36000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2019</year>
+    <unit>charging points</unit>
+    <value>1600</value>
+    <percentage>160000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2019</year>
+    <unit>Vehicles</unit>
+    <value>14000</value>
+    <percentage>1400000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>26000</value>
+    <percentage>2600000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2020</year>
+    <unit>charging points</unit>
+    <value>650</value>
+    <percentage>65000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2020</year>
+    <unit>charging points</unit>
+    <value>2200</value>
+    <percentage>220000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>60</value>
+    <percentage>6000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>10</value>
+    <percentage>1000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>270</value>
+    <percentage>27000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>12000</value>
+    <percentage>1200000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>10</value>
+    <percentage>1000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>1900</value>
+    <percentage>190000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>7800</value>
+    <percentage>780000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2020</year>
+    <unit>Vehicles</unit>
+    <value>23000</value>
+    <percentage>2300000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2020</year>
+    <unit>percent</unit>
+    <value>170.000.001.788.139</value>
+    <percentage>17000000178813900.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2020</year>
+    <unit>percent</unit>
+    <value>490.000.009.536.743</value>
+    <percentage>49000000953674300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2020</year>
+    <unit>percent</unit>
+    <value>990.000.009.536.743</value>
+    <percentage>99000000953674300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2020</year>
+    <unit>percent</unit>
+    <value>220.000.004.768.372</value>
+    <percentage>22000000476837200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2020</year>
+    <unit>percent</unit>
+    <value>110.000.002.384.186</value>
+    <percentage>11000000238418600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2020</year>
+    <unit>percent</unit>
+    <value>13</value>
+    <percentage>1300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2021</year>
+    <unit>percent</unit>
+    <value>20</value>
+    <percentage>2000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2021</year>
+    <unit>percent</unit>
+    <value>170.000.004.768.372</value>
+    <percentage>17000000476837200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2021</year>
+    <unit>percent</unit>
+    <value>740.000.009.536.743</value>
+    <percentage>74000000953674300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2021</year>
+    <unit>percent</unit>
+    <value>129.999.995.231.628</value>
+    <percentage>12999999523162800.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2021</year>
+    <unit>percent</unit>
+    <value>810.000.002.384.186</value>
+    <percentage>81000000238418600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2021</year>
+    <unit>percent</unit>
+    <value>200.000.002.980.232</value>
+    <percentage>20000000298023200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>37000</value>
+    <percentage>3700000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>2</value>
+    <percentage>200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>7</value>
+    <percentage>700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>7</value>
+    <percentage>700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>1</value>
+    <percentage>100.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>13000</value>
+    <percentage>1300000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>2300</value>
+    <percentage>230000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>12</value>
+    <percentage>1200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>16000</value>
+    <percentage>1600000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>360</value>
+    <percentage>36000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>2</value>
+    <percentage>200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>44</value>
+    <percentage>4400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>100</value>
+    <percentage>10000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>3</value>
+    <percentage>300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2021</year>
+    <unit>charging points</unit>
+    <value>1400</value>
+    <percentage>140000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2021</year>
+    <unit>charging points</unit>
+    <value>2800</value>
+    <percentage>280000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2021</year>
+    <unit>Vehicles</unit>
+    <value>41000</value>
+    <percentage>4100000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>57000</value>
+    <percentage>5700000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2022</year>
+    <unit>charging points</unit>
+    <value>1600</value>
+    <percentage>160000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2022</year>
+    <unit>charging points</unit>
+    <value>4000</value>
+    <percentage>400000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>3</value>
+    <percentage>300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>250</value>
+    <percentage>25000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>76</value>
+    <percentage>7600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>1000</value>
+    <percentage>100000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>16000</value>
+    <percentage>1600000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>12</value>
+    <percentage>1200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>3300</value>
+    <percentage>330000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>18000</value>
+    <percentage>1800000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>9</value>
+    <percentage>900.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>2</value>
+    <percentage>200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>3</value>
+    <percentage>300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2022</year>
+    <unit>Vehicles</unit>
+    <value>54000</value>
+    <percentage>5400000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2022</year>
+    <unit>percent</unit>
+    <value>300.000.011.920.929</value>
+    <percentage>30000001192092900.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2022</year>
+    <unit>percent</unit>
+    <value>170.000.004.768.372</value>
+    <percentage>17000000476837200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2022</year>
+    <unit>percent</unit>
+    <value>430.000.019.073.486</value>
+    <percentage>43000001907348600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2022</year>
+    <unit>percent</unit>
+    <value>530.000.019.073.486</value>
+    <percentage>53000001907348600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2022</year>
+    <unit>percent</unit>
+    <value>2.5</value>
+    <percentage>4541400.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2022</year>
+    <unit>percent</unit>
+    <value>22</value>
+    <percentage>2200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2023</year>
+    <unit>percent</unit>
+    <value>32</value>
+    <percentage>3200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Cars</mode>
+    <powertrain>EV</powertrain>
+    <year>2023</year>
+    <unit>percent</unit>
+    <value>390.000.009.536.743</value>
+    <percentage>39000000953674300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2023</year>
+    <unit>percent</unit>
+    <value>36</value>
+    <percentage>3600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2023</year>
+    <unit>percent</unit>
+    <value>860.000.038.146.973</value>
+    <percentage>86000003814697300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Buses</mode>
+    <powertrain>EV</powertrain>
+    <year>2023</year>
+    <unit>percent</unit>
+    <value>359.999.990.463.257</value>
+    <percentage>35999999046325700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock share</parameter>
+    <mode>Vans</mode>
+    <powertrain>EV</powertrain>
+    <year>2023</year>
+    <unit>percent</unit>
+    <value>469.999.998.807.907</value>
+    <percentage>46999999880790700.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>91000</value>
+    <percentage>9100000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>1</value>
+    <percentage>100.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>9</value>
+    <percentage>900.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>2</value>
+    <percentage>200.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>BEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>36000</value>
+    <percentage>3600000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>4800</value>
+    <percentage>480000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>16</value>
+    <percentage>1600.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>27000</value>
+    <percentage>2700000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Vans</mode>
+    <powertrain>BEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>2500</value>
+    <percentage>250000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>360</value>
+    <percentage>36000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Buses</mode>
+    <powertrain>BEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>570</value>
+    <percentage>57000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV sales</parameter>
+    <mode>Buses</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>1</value>
+    <percentage>100.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>FCEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>3</value>
+    <percentage>300.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available fast</powertrain>
+    <year>2023</year>
+    <unit>charging points</unit>
+    <value>3800</value>
+    <percentage>380000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV charging points</parameter>
+    <mode>EV</mode>
+    <powertrain>Publicly available slow</powertrain>
+    <year>2023</year>
+    <unit>charging points</unit>
+    <value>5600</value>
+    <percentage>560000.00</percentage>
+  </Row>
+  <Row>
+    <region>Portugal</region>
+    <category>Historical</category>
+    <parameter>EV stock</parameter>
+    <mode>Cars</mode>
+    <powertrain>PHEV</powertrain>
+    <year>2023</year>
+    <unit>Vehicles</unit>
+    <value>84000</value>
+    <percentage>8400000.00</percentage>
+  </Row>
+</IEA_EV_Data_Sub>
