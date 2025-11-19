@@ -1,9 +1,18 @@
 FROM python:3.12-slim
 
+# Preparar ambiente
 WORKDIR /app
 
-COPY . /app
+# Copiar apenas o necessário
+COPY ../ ./
 
-RUN pip install grpcio grpcio-tools lxml
+# Instalar dependências
+RUN pip install --no-cache-dir \
+    grpcio grpcio-tools lxml psycopg2-binary
 
-CMD ["python", "xmlrpc_server.py"]
+# Declarar portas (opcional para compose)
+EXPOSE 8000
+EXPOSE 50051
+
+# O CMD final será definido pelo docker-compose.yml
+CMD ["python", "-V"]

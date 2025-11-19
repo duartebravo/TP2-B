@@ -1,20 +1,26 @@
 services:
 
   xmlrpc:
-    build: .
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
     container_name: xmlrpc_service
+    working_dir: /app
+    command: python xmlrpc/xmlrpc_server.py
     ports:
       - "8000:8000"
-    command: python xmlrpc_server.py
     depends_on:
       - postgres_db
 
   grpc:
-    build: .
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
     container_name: grpc_service
+    working_dir: /app
+    command: python grpc/grpc_server.py
     ports:
       - "50051:50051"
-    command: python grpc_server.py
     depends_on:
       - postgres_db
 
@@ -26,7 +32,7 @@ services:
       POSTGRES_PASSWORD: password
       POSTGRES_DB: evdb
     ports:
-      - "5434:5432"     
+      - "5434:5432"
     volumes:
       - ./docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
       - postgres_data:/var/lib/postgresql/data

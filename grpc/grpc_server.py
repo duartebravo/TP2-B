@@ -1,11 +1,18 @@
+import sys
+import os
+
+# Adicionar a pasta pai ao PYTHONPATH
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import grpc
 from concurrent import futures
 import xml.etree.ElementTree as ET
 
-import evdata_pb2
-import evdata_pb2_grpc
+import generated.evdata_pb2 as evdata_pb2
+import generated.evdata_pb2_grpc as evdata_pb2_grpc
 
-XML_FILE = "IEA_EV_Data.xml"
+XML_FILE = os.path.join(os.path.dirname(__file__), "..", "xml", "IEA_EV_Data.xml")
+XML_FILE = os.path.abspath(XML_FILE)
 tree = ET.parse(XML_FILE)
 root = tree.getroot()
 

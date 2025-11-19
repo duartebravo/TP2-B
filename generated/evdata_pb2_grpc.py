@@ -3,7 +3,7 @@
 import grpc
 import warnings
 
-import evdata_pb2 as evdata__pb2
+import generated.evdata_pb2 as evdata__pb2
 
 GRPC_GENERATED_VERSION = '1.75.1'
 GRPC_VERSION = grpc.__version__

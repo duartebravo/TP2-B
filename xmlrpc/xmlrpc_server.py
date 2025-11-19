@@ -1,7 +1,10 @@
 from xmlrpc.server import SimpleXMLRPCServer
 import xml.etree.ElementTree as ET
+import os
 
-XML_FILE = "IEA_EV_Data.xml"  # está na mesma pasta
+XML_FILE = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "xml", "IEA_EV_Data.xml")
+)
 
 tree = ET.parse(XML_FILE)
 root = tree.getroot()
